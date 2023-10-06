@@ -1,4 +1,4 @@
-# Do not import a library to solve it instantly
+# DataCapture & Stats Challenge
 
 This solution provides two main classes: `DataCapture` and `Stats`, designed for capturing and analyzing numerical data, respectively. Assuming all values will be less than 1,000.
 
